@@ -1,0 +1,9 @@
+C:\Users\paytoda\Documents\GitHub\AlgorithmStuff\bin\Debug\netcoreapp1.1\AlgorithmStuff.deps.json
+C:\Users\paytoda\Documents\GitHub\AlgorithmStuff\bin\Debug\netcoreapp1.1\AlgorithmStuff.runtimeconfig.json
+C:\Users\paytoda\Documents\GitHub\AlgorithmStuff\bin\Debug\netcoreapp1.1\AlgorithmStuff.runtimeconfig.dev.json
+C:\Users\paytoda\Documents\GitHub\AlgorithmStuff\obj\Debug\netcoreapp1.1\AlgorithmStuff.csproj.CoreCompileInputs.cache
+C:\Users\paytoda\Documents\GitHub\AlgorithmStuff\obj\Debug\netcoreapp1.1\AlgorithmStuff.AssemblyInfo.cs
+C:\Users\paytoda\Documents\GitHub\AlgorithmStuff\bin\Debug\netcoreapp1.1\AlgorithmStuff.dll
+C:\Users\paytoda\Documents\GitHub\AlgorithmStuff\bin\Debug\netcoreapp1.1\AlgorithmStuff.pdb
+C:\Users\paytoda\Documents\GitHub\AlgorithmStuff\obj\Debug\netcoreapp1.1\AlgorithmStuff.dll
+C:\Users\paytoda\Documents\GitHub\AlgorithmStuff\obj\Debug\netcoreapp1.1\AlgorithmStuff.pdb
